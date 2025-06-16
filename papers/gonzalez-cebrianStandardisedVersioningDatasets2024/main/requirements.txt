@@ -1,0 +1,44 @@
+# Use this requirements.txt file to specify the dependencies for your Python project.
+# You can install these dependencies using 'pip install -r requirements.txt'.
+# Author:
+# - Name: Alba González-Cebrián, Adriana E. Chis, Michael Bradford, Horacio González-Vélez
+# - Email: Alba.Gonzalez-Cebrian@ncirl.ie
+
+# License: Creative Commons Attribution 4.0 International License (CC BY 4.0)
+# - License URL: https://creativecommons.org/licenses/by/4.0/
+
+# Deep Learning Framework
+keras==2.11.0
+
+# Hyperparameter Tuning for Keras
+keras_tuner==1.3.0
+
+# Plotting Library
+matplotlib==3.7.1
+
+# Numerical Computing Library
+numpy==1.23.5
+
+# Data Manipulation Library
+pandas==2.0.3
+
+# Testing Framework
+pytest==7.4.0
+
+# Machine Learning Library
+scikit_learn==1.2.2
+
+# Scientific Computing Library
+scipy==1.10.1
+
+# Statistical Data Visualization
+seaborn==0.12.2
+
+# Statistical Models
+statsmodels==0.13.5
+
+# Deep Learning Framework
+tensorflow==2.11.0
+
+# Excel File Handling
+openpyxl==3.1.1
