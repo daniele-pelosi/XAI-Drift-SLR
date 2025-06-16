@@ -1,0 +1,10 @@
+azure-servicebus
+jsonify
+python-dotenv
+joblib
+azure-functions
+pyodbc
+pandas
+numpy
+dynaconf
+ruptures
