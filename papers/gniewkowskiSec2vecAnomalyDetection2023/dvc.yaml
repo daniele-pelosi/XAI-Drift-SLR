@@ -1,0 +1,56 @@
+stages:
+  1-tokenize:
+    foreach: ${tokenize}
+    do:
+      cmd: PYTHONPATH=. python stages/train_tokenizer.py
+           data/datasets/${item}
+           data/tokenizers/${item}
+           --method byte_bpe
+      deps:
+          - data/datasets/${item}
+          - stages/train_tokenizer.py
+      outs:
+          - data/tokenizers/${item}
+  2-train_model:
+    foreach: ${train_model}
+    do:
+      cmd: PYTHONPATH=. python stages/train_model.py 
+           data/datasets/${item.dataset}/train_model.jsonl
+           data/models/${key} 
+           --model ${item.model}
+           --tokenizer data/tokenizers/${item.dataset}
+           --length ${item.params.length}
+      deps:
+          - data/tokenizers/${item.dataset}
+      outs:
+          - data/models/${key}
+  3-vectorize:
+    foreach: ${vectorize}
+    do:
+      cmd: PYTHONPATH=. python stages/vectorize.py 
+           data/datasets/${item.dataset}/test_model.jsonl
+           data/vectors/${key}
+           --model ${item.model}
+           --model-path data/models/${key}
+           --tokenizer data/tokenizers/${item.dataset}
+      deps:
+          - data/datasets/${item.dataset}
+          - data/tokenizers/${item.dataset}
+          - data/models/${key}
+          - stages/vectorize.py
+      outs:
+          - data/vectors/${key} 
+  4-classify:
+    foreach: ${classify}
+    do:
+      cmd: PYTHONPATH=. python stages/classify.py
+           data/vectors/${key}
+           data/classification/${key}
+           --n-runs ${item.n_runs}
+      deps:
+          - data/vectors/${key}
+          - stages/classify.py
+      outs:
+          - data/classification/${key}/saved
+      metrics:
+          - data/classification/${key}/metrics.json

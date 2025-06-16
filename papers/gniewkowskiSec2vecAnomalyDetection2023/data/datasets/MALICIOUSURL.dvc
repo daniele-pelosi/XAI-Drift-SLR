@@ -1,0 +1,5 @@
+outs:
+- md5: 34d083bed4e9a22f18f5f60d8ebeed31.dir
+  size: 38794533
+  nfiles: 2
+  path: MALICIOUSURL

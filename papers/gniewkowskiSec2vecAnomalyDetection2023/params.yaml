@@ -1,0 +1,165 @@
+tokenize:
+    - CSIC2010
+    - UNSW-NB15
+    - MALICIOUSURL
+    - ISCXURL2016 
+
+train_model:
+    bow-CSIC2010-3072:
+        model: bow
+        dataset: CSIC2010
+        params:
+            length: 3072
+    roberta-CSIC2010-3072:
+        model: roberta
+        dataset: CSIC2010
+        params:
+            length: 3072
+    fasttext-CSIC2010-3072:
+        model: fasttext
+        dataset: CSIC2010
+        params:
+            length: 3072
+#########################################
+    bow-ISCXURL2016-3072:
+        model: bow
+        dataset: ISCXURL2016
+        params:
+            length: 3072
+    roberta-ISCXURL2016-3072:
+        model: roberta
+        dataset: ISCXURL2016
+        params:
+            length: 3072
+    fasttext-ISCXURL2016-3072:
+        model: fasttext
+        dataset: ISCXURL2016
+        params:
+            length: 3072
+#########################################
+    bow-MALICIOUSURL-3072:
+        model: bow
+        dataset: MALICIOUSURL
+        params:
+            length: 3072
+    roberta-MALICIOUSURL-3072:
+        model: roberta
+        dataset: MALICIOUSURL
+        params:
+            length: 3072
+    fasttext-MALICIOUSURL-3072:
+        model: fasttext
+        dataset: MALICIOUSURL
+        params:
+            length: 3072
+###############################
+    bow-UNSW-NB15-3072:
+        model: bow
+        dataset: UNSW-NB15
+        params:
+            length: 3072
+    roberta-UNSW-NB15-3072:
+        model: roberta
+        dataset: UNSW-NB15
+        params:
+            length: 3072
+    fasttext-UNSW-NB15-3072:
+        model: fasttext
+        dataset: UNSW-NB15
+        params:
+            length: 3072
+
+vectorize:
+    bow-CSIC2010-3072:
+        model: bow
+        dataset: CSIC2010
+    roberta-CSIC2010-3072:
+        model: roberta
+        dataset: CSIC2010
+    fasttext-CSIC2010-3072:
+        model: fasttext
+        dataset: CSIC2010
+####################
+    bow-ISCXURL2016-3072:
+        model: bow
+        dataset: ISCXURL2016
+    roberta-ISCXURL2016-3072:
+        model: roberta
+        dataset: ISCXURL2016
+    fasttext-ISCXURL2016-3072:
+        model: fasttext
+        dataset: ISCXURL2016
+#######################################
+    bow-MALICIOUSURL-3072:
+        model: bow
+        dataset: MALICIOUSURL
+    roberta-MALICIOUSURL-3072:
+        model: roberta
+        dataset: MALICIOUSURL
+    fasttext-MALICIOUSURL-3072:
+        model: fasttext
+        dataset: MALICIOUSURL
+    #############
+    bow-UNSW-NB15-3072:
+        model: bow
+        dataset: UNSW-NB15
+    roberta-UNSW-NB15-3072:
+        model: roberta
+        dataset: UNSW-NB15
+    fasttext-UNSW-NB15-3072:
+        model: fasttext
+        dataset: UNSW-NB15
+
+classify:
+    bow-MALICIOUSURL-3072:
+        model: bow
+        dataset: MALICIOUSURL
+        n_runs: 5
+    roberta-MALICIOUSURL-3072:
+        model: roberta
+        dataset: MALICIOUSURL
+        n_runs: 5
+    fasttext-MALICIOUSURL-3072:
+        model: fasttext
+        dataset: MALICIOUSURL
+        n_runs: 5
+    ##########
+    bow-ISCXURL2016-3072:
+        model: bow
+        dataset: ISCXURL2016
+        n_runs: 5
+    roberta-ISCXURL2016-3072:
+        model: roberta
+        dataset: ISCXURL2016
+        n_runs: 5
+    fasttext-ISCXURL2016-3072:
+        model: fasttext
+        dataset: ISCXURL2016
+        n_runs: 5
+    #########
+    bow-UNSW-NB15-3072:
+        model: bow
+        dataset: UNSW-NB15
+        n_runs: 5
+    roberta-UNSW-NB15-3072:
+        model: roberta
+        dataset: UNSW-NB15
+        n_runs: 5
+    fasttext-UNSW-NB15-3072:
+        model: fasttext
+        dataset: UNSW-NB15
+        n_runs: 5
+    ###
+    bow-CSIC2010-3072:
+        model: bow
+        dataset: CSIC2010
+        n_runs: 5
+    roberta-CSIC2010-3072:
+        model: roberta
+        dataset: CSIC2010
+        n_runs: 5
+    fasttext-CSIC2010-3072:
+        model: fasttext
+        dataset: CSIC2010
+        n_runs: 5
+

@@ -1,0 +1,845 @@
+schema: '2.0'
+stages:
+  1-preprocess-dummy:
+    cmd: PYTHONPATH=. python stages/preprocess.py data/datasets/CSIC2010 data/preprocessed/dummy
+      --method dummy --config configs/preprocess/dummy.yml
+    deps:
+    - md5: c56cb3df6835ec53d461868ce4b66fcc
+      path: configs/preprocess/dummy.yml
+      size: 25
+    - md5: 4ebd613471078d1d31b068012126d92a.dir
+      nfiles: 3
+      path: data/datasets/CSIC2010
+      size: 57330491
+    outs:
+    - md5: 4ebd613471078d1d31b068012126d92a.dir
+      nfiles: 3
+      path: data/preprocessed/dummy
+      size: 57330491
+  1-tokenize@CSIC2010:
+    cmd: PYTHONPATH=. python stages/train_tokenizer.py data/datasets/CSIC2010 data/tokenizers/CSIC2010
+      --method byte_bpe
+    deps:
+    - md5: 54a8f4bc22c5a140db42ff8cd20b9e7b.dir
+      nfiles: 2
+      path: data/datasets/CSIC2010
+      size: 60161592
+    - md5: 7bd4315dd73c7a2cc92921fa2e0cead7
+      path: stages/train_tokenizer.py
+      size: 1192
+    outs:
+    - md5: 825e4196a19238cc420312f0356d799b.dir
+      nfiles: 2
+      path: data/tokenizers/CSIC2010
+      size: 1178421
+  1-tokenize@DRAPER:
+    cmd: PYTHONPATH=. python stages/train_tokenizer.py data/datasets/DRAPER data/tokenizers/DRAPER
+      --method byte_bpe
+    deps:
+    - md5: 8ccd0c1352f307458c52ea2a647eec3e.dir
+      nfiles: 7
+      path: data/datasets/DRAPER
+      size: 1504391456
+    - md5: 67094e52a11664f8ac789e18bc35dec9
+      path: stages/train_tokenizer.py
+      size: 997
+    outs:
+    - md5: 4c6c416e63096a44f5aca920f02fcfac.dir
+      nfiles: 2
+      path: data/tokenizers/DRAPER
+      size: 1228495
+  1-tokenize@IDS2018:
+    cmd: PYTHONPATH=. python stages/train_tokenizer.py data/datasets/IDS2018 data/tokenizers/IDS2018
+      --method byte_bpe
+    deps:
+    - md5: 1ec2c7aba27c204f01083185b019c09e.dir
+      nfiles: 2
+      path: data/datasets/IDS2018
+      size: 28164591
+    - md5: 67094e52a11664f8ac789e18bc35dec9
+      path: stages/train_tokenizer.py
+      size: 997
+    outs:
+    - md5: 3c513ddf15ead39b3e4ead9c40230146.dir
+      nfiles: 2
+      path: data/tokenizers/IDS2018
+      size: 1024102
+  1-tokenize@ISCXURL2016:
+    cmd: PYTHONPATH=. python stages/train_tokenizer.py data/datasets/ISCXURL2016 data/tokenizers/ISCXURL2016
+      --method byte_bpe
+    deps:
+    - md5: 3cfcf14394983cd99bdbd25ca3fa12db.dir
+      nfiles: 2
+      path: data/datasets/ISCXURL2016
+      size: 27759904
+    - md5: 7bd4315dd73c7a2cc92921fa2e0cead7
+      path: stages/train_tokenizer.py
+      size: 1192
+    outs:
+    - md5: 36630defdd103d6c923a71894a4d99f5.dir
+      nfiles: 2
+      path: data/tokenizers/ISCXURL2016
+      size: 1174819
+  1-tokenize@MALICIOUSURL:
+    cmd: PYTHONPATH=. python stages/train_tokenizer.py data/datasets/MALICIOUSURL
+      data/tokenizers/MALICIOUSURL --method byte_bpe
+    deps:
+    - md5: 34d083bed4e9a22f18f5f60d8ebeed31.dir
+      nfiles: 2
+      path: data/datasets/MALICIOUSURL
+      size: 38794533
+    - md5: 7bd4315dd73c7a2cc92921fa2e0cead7
+      path: stages/train_tokenizer.py
+      size: 1192
+    outs:
+    - md5: 9094f63abefc9f1c761502692181cdb6.dir
+      nfiles: 2
+      path: data/tokenizers/MALICIOUSURL
+      size: 1171566
+  1-tokenize@UMP:
+    cmd: PYTHONPATH=. python stages/train_tokenizer.py data/datasets/UMP data/tokenizers/UMP
+      --method byte_bpe
+    deps:
+    - md5: a76368fcc4954ef30171c0a79e45c89a.dir
+      nfiles: 2
+      path: data/datasets/UMP
+      size: 119364000
+    - md5: 67094e52a11664f8ac789e18bc35dec9
+      path: stages/train_tokenizer.py
+      size: 997
+    outs:
+    - md5: 3bac7e2ef649cfeddff39aa3b1153a60.dir
+      nfiles: 2
+      path: data/tokenizers/UMP
+      size: 1540197
+  1-tokenize@UNSW-NB15:
+    cmd: PYTHONPATH=. python stages/train_tokenizer.py data/datasets/UNSW-NB15 data/tokenizers/UNSW-NB15
+      --method byte_bpe
+    deps:
+    - md5: 53c86876a26f9952aca463ba0305d7f2.dir
+      nfiles: 2
+      path: data/datasets/UNSW-NB15
+      size: 26982266
+    - md5: 7bd4315dd73c7a2cc92921fa2e0cead7
+      path: stages/train_tokenizer.py
+      size: 1192
+    outs:
+    - md5: a4884a9d7c8d4a14b7263ff663e58108.dir
+      nfiles: 2
+      path: data/tokenizers/UNSW-NB15
+      size: 1297724
+  2-train_model@bow-CSIC2010-3072:
+    cmd: PYTHONPATH=. python stages/train_model.py data/datasets/CSIC2010/train_model.jsonl
+      data/models/bow-CSIC2010-3072 --model bow --tokenizer data/tokenizers/CSIC2010
+      --length 3072
+    deps:
+    - md5: 825e4196a19238cc420312f0356d799b.dir
+      nfiles: 2
+      path: data/tokenizers/CSIC2010
+      size: 1178421
+    outs:
+    - md5: fc2c5cb7f3e09e9bcf52882914bc3945.dir
+      nfiles: 1
+      path: data/models/bow-CSIC2010-3072
+      size: 21930
+  2-train_model@bow-ISCXURL2016-3072:
+    cmd: PYTHONPATH=. python stages/train_model.py data/datasets/ISCXURL2016/train_model.jsonl
+      data/models/bow-ISCXURL2016-3072 --model bow --tokenizer data/tokenizers/ISCXURL2016
+      --length 3072
+    deps:
+    - md5: 36630defdd103d6c923a71894a4d99f5.dir
+      nfiles: 2
+      path: data/tokenizers/ISCXURL2016
+      size: 1174819
+    outs:
+    - md5: c152cb10fbb38b8d1603a8e7cf470e55.dir
+      nfiles: 1
+      path: data/models/bow-ISCXURL2016-3072
+      size: 24823
+  2-train_model@bow-MALICIOUSURL-3072:
+    cmd: PYTHONPATH=. python stages/train_model.py data/datasets/MALICIOUSURL/train_model.jsonl
+      data/models/bow-MALICIOUSURL-3072 --model bow --tokenizer data/tokenizers/MALICIOUSURL
+      --length 3072
+    deps:
+    - md5: 9094f63abefc9f1c761502692181cdb6.dir
+      nfiles: 2
+      path: data/tokenizers/MALICIOUSURL
+      size: 1171566
+    outs:
+    - md5: e77198b1330b5e88f4bc8e17c189940d.dir
+      nfiles: 1
+      path: data/models/bow-MALICIOUSURL-3072
+      size: 22916
+  2-train_model@bow-UNSW-NB15-3072:
+    cmd: PYTHONPATH=. python stages/train_model.py data/datasets/UNSW-NB15/train_model.jsonl
+      data/models/bow-UNSW-NB15-3072 --model bow --tokenizer data/tokenizers/UNSW-NB15
+      --length 3072
+    deps:
+    - md5: a4884a9d7c8d4a14b7263ff663e58108.dir
+      nfiles: 2
+      path: data/tokenizers/UNSW-NB15
+      size: 1297724
+    outs:
+    - md5: 1463492b8b1c5bf62b761712470e11aa.dir
+      nfiles: 1
+      path: data/models/bow-UNSW-NB15-3072
+      size: 21496
+  2-train_model@fasttext-CSIC2010-3072:
+    cmd: PYTHONPATH=. python stages/train_model.py data/datasets/CSIC2010/train_model.jsonl
+      data/models/fasttext-CSIC2010-3072 --model fasttext --tokenizer data/tokenizers/CSIC2010
+      --length 3072
+    deps:
+    - md5: 825e4196a19238cc420312f0356d799b.dir
+      nfiles: 2
+      path: data/tokenizers/CSIC2010
+      size: 1178421
+    outs:
+    - md5: 2a5a11d61579261f65892dd3d377e683.dir
+      nfiles: 4
+      path: data/models/fasttext-CSIC2010-3072
+      size: 24689748312
+  2-train_model@fasttext-ISCXURL2016-3072:
+    cmd: PYTHONPATH=. python stages/train_model.py data/datasets/ISCXURL2016/train_model.jsonl
+      data/models/fasttext-ISCXURL2016-3072 --model fasttext --tokenizer data/tokenizers/ISCXURL2016
+      --length 3072
+    deps:
+    - md5: 36630defdd103d6c923a71894a4d99f5.dir
+      nfiles: 2
+      path: data/tokenizers/ISCXURL2016
+      size: 1174819
+    outs:
+    - md5: 690fc5a6f2c8df21a8635138120a1ba2.dir
+      nfiles: 4
+      path: data/models/fasttext-ISCXURL2016-3072
+      size: 25026665686
+  2-train_model@fasttext-MALICIOUSURL-3072:
+    cmd: PYTHONPATH=. python stages/train_model.py data/datasets/MALICIOUSURL/train_model.jsonl
+      data/models/fasttext-MALICIOUSURL-3072 --model fasttext --tokenizer data/tokenizers/MALICIOUSURL
+      --length 3072
+    deps:
+    - md5: 9094f63abefc9f1c761502692181cdb6.dir
+      nfiles: 2
+      path: data/tokenizers/MALICIOUSURL
+      size: 1171566
+    outs:
+    - md5: 11b9ee7ac9aac639715d06d341a4740e.dir
+      nfiles: 4
+      path: data/models/fasttext-MALICIOUSURL-3072
+      size: 25579136703
+  2-train_model@fasttext-UNSW-NB15-3072:
+    cmd: PYTHONPATH=. python stages/train_model.py data/datasets/UNSW-NB15/train_model.jsonl
+      data/models/fasttext-UNSW-NB15-3072 --model fasttext --tokenizer data/tokenizers/UNSW-NB15
+      --length 3072
+    deps:
+    - md5: a4884a9d7c8d4a14b7263ff663e58108.dir
+      nfiles: 2
+      path: data/tokenizers/UNSW-NB15
+      size: 1297724
+    outs:
+    - md5: e75ad3a886ed9e90d04222b1d53f547c.dir
+      nfiles: 4
+      path: data/models/fasttext-UNSW-NB15-3072
+      size: 24665266397
+  2-train_model@roberta-CSIC2010-3072:
+    cmd: PYTHONPATH=. python stages/train_model.py data/datasets/CSIC2010/train_model.jsonl
+      data/models/roberta-CSIC2010-3072 --model roberta --tokenizer data/tokenizers/CSIC2010
+      --length 3072
+    deps:
+    - md5: 825e4196a19238cc420312f0356d799b.dir
+      nfiles: 2
+      path: data/tokenizers/CSIC2010
+      size: 1178421
+    outs:
+    - md5: bcf102c2ec84ee2c291ed893ac48c437.dir
+      nfiles: 3
+      path: data/models/roberta-CSIC2010-3072
+      size: 334069391
+  2-train_model@roberta-ISCXURL2016-3072:
+    cmd: PYTHONPATH=. python stages/train_model.py data/datasets/ISCXURL2016/train_model.jsonl
+      data/models/roberta-ISCXURL2016-3072 --model roberta --tokenizer data/tokenizers/ISCXURL2016
+      --length 3072
+    deps:
+    - md5: 36630defdd103d6c923a71894a4d99f5.dir
+      nfiles: 2
+      path: data/tokenizers/ISCXURL2016
+      size: 1174819
+    outs:
+    - md5: 4d13a1715fe61703b0a3bb6d8bd3eb52.dir
+      nfiles: 3
+      path: data/models/roberta-ISCXURL2016-3072
+      size: 334069376
+  2-train_model@roberta-MALICIOUSURL-3072:
+    cmd: PYTHONPATH=. python stages/train_model.py data/datasets/MALICIOUSURL/train_model.jsonl
+      data/models/roberta-MALICIOUSURL-3072 --model roberta --tokenizer data/tokenizers/MALICIOUSURL
+      --length 3072
+    deps:
+    - md5: 9094f63abefc9f1c761502692181cdb6.dir
+      nfiles: 2
+      path: data/tokenizers/MALICIOUSURL
+      size: 1171566
+    outs:
+    - md5: 6f8189577696718892904e51e7093655.dir
+      nfiles: 3
+      path: data/models/roberta-MALICIOUSURL-3072
+      size: 334069391
+  2-train_model@roberta-UNSW-NB15-3072:
+    cmd: PYTHONPATH=. python stages/train_model.py data/datasets/UNSW-NB15/train_model.jsonl
+      data/models/roberta-UNSW-NB15-3072 --model roberta --tokenizer data/tokenizers/UNSW-NB15
+      --length 3072
+    deps:
+    - md5: a4884a9d7c8d4a14b7263ff663e58108.dir
+      nfiles: 2
+      path: data/tokenizers/UNSW-NB15
+      size: 1297724
+    outs:
+    - md5: 0bb6ab0c82b1e010acd8d2925765a811.dir
+      nfiles: 3
+      path: data/models/roberta-UNSW-NB15-3072
+      size: 334069388
+  3-vectorize@bow-CSIC2010-3072:
+    cmd: PYTHONPATH=. python stages/vectorize.py data/datasets/CSIC2010/test_model.jsonl
+      data/vectors/bow-CSIC2010-3072 --model bow --model-path data/models/bow-CSIC2010-3072
+      --tokenizer data/tokenizers/CSIC2010
+    deps:
+    - md5: 54a8f4bc22c5a140db42ff8cd20b9e7b.dir
+      nfiles: 2
+      path: data/datasets/CSIC2010
+      size: 60161592
+    - md5: fc2c5cb7f3e09e9bcf52882914bc3945.dir
+      nfiles: 1
+      path: data/models/bow-CSIC2010-3072
+      size: 21930
+    - md5: 825e4196a19238cc420312f0356d799b.dir
+      nfiles: 2
+      path: data/tokenizers/CSIC2010
+      size: 1178421
+    - md5: fbac21e08228cdf9e48631ce17ea03ce
+      path: stages/vectorize.py
+      size: 2075
+    outs:
+    - md5: ce3a7b5350e9f778dcf11d1aa991b7db.dir
+      nfiles: 1
+      path: data/vectors/bow-CSIC2010-3072
+      size: 2593884482
+  3-vectorize@bow-ISCXURL2016-3072:
+    cmd: PYTHONPATH=. python stages/vectorize.py data/datasets/ISCXURL2016/test_model.jsonl
+      data/vectors/bow-ISCXURL2016-3072 --model bow --model-path data/models/bow-ISCXURL2016-3072
+      --tokenizer data/tokenizers/ISCXURL2016
+    deps:
+    - md5: 3cfcf14394983cd99bdbd25ca3fa12db.dir
+      nfiles: 2
+      path: data/datasets/ISCXURL2016
+      size: 27759904
+    - md5: c152cb10fbb38b8d1603a8e7cf470e55.dir
+      nfiles: 1
+      path: data/models/bow-ISCXURL2016-3072
+      size: 24823
+    - md5: 36630defdd103d6c923a71894a4d99f5.dir
+      nfiles: 2
+      path: data/tokenizers/ISCXURL2016
+      size: 1174819
+    - md5: fbac21e08228cdf9e48631ce17ea03ce
+      path: stages/vectorize.py
+      size: 2075
+    outs:
+    - md5: 16e35512503f8252abc7a6ce8358e940.dir
+      nfiles: 1
+      path: data/vectors/bow-ISCXURL2016-3072
+      size: 4234936607
+  3-vectorize@bow-MALICIOUSURL-3072:
+    cmd: PYTHONPATH=. python stages/vectorize.py data/datasets/MALICIOUSURL/test_model.jsonl
+      data/vectors/bow-MALICIOUSURL-3072 --model bow --model-path data/models/bow-MALICIOUSURL-3072
+      --tokenizer data/tokenizers/MALICIOUSURL
+    deps:
+    - md5: 34d083bed4e9a22f18f5f60d8ebeed31.dir
+      nfiles: 2
+      path: data/datasets/MALICIOUSURL
+      size: 38794533
+    - md5: e77198b1330b5e88f4bc8e17c189940d.dir
+      nfiles: 1
+      path: data/models/bow-MALICIOUSURL-3072
+      size: 22916
+    - md5: 9094f63abefc9f1c761502692181cdb6.dir
+      nfiles: 2
+      path: data/tokenizers/MALICIOUSURL
+      size: 1171566
+    - md5: fbac21e08228cdf9e48631ce17ea03ce
+      path: stages/vectorize.py
+      size: 2075
+    outs:
+    - md5: a63ec5c0bbf1e42cfd506c905898e00b.dir
+      nfiles: 1
+      path: data/vectors/bow-MALICIOUSURL-3072
+      size: 5785021001
+  3-vectorize@bow-UNSW-NB15-3072:
+    cmd: PYTHONPATH=. python stages/vectorize.py data/datasets/UNSW-NB15/test_model.jsonl
+      data/vectors/bow-UNSW-NB15-3072 --model bow --model-path data/models/bow-UNSW-NB15-3072
+      --tokenizer data/tokenizers/UNSW-NB15
+    deps:
+    - md5: 53c86876a26f9952aca463ba0305d7f2.dir
+      nfiles: 2
+      path: data/datasets/UNSW-NB15
+      size: 26982266
+    - md5: 1463492b8b1c5bf62b761712470e11aa.dir
+      nfiles: 1
+      path: data/models/bow-UNSW-NB15-3072
+      size: 21496
+    - md5: a4884a9d7c8d4a14b7263ff663e58108.dir
+      nfiles: 2
+      path: data/tokenizers/UNSW-NB15
+      size: 1297724
+    - md5: fbac21e08228cdf9e48631ce17ea03ce
+      path: stages/vectorize.py
+      size: 2075
+    outs:
+    - md5: 3c722cb01d6fcf107b471a0ffbd74a60.dir
+      nfiles: 1
+      path: data/vectors/bow-UNSW-NB15-3072
+      size: 713442064
+  3-vectorize@fasttext-CSIC2010-3072:
+    cmd: PYTHONPATH=. python stages/vectorize.py data/datasets/CSIC2010/test_model.jsonl
+      data/vectors/fasttext-CSIC2010-3072 --model fasttext --model-path data/models/fasttext-CSIC2010-3072
+      --tokenizer data/tokenizers/CSIC2010
+    deps:
+    - md5: 54a8f4bc22c5a140db42ff8cd20b9e7b.dir
+      nfiles: 2
+      path: data/datasets/CSIC2010
+      size: 60161592
+    - md5: 2a5a11d61579261f65892dd3d377e683.dir
+      nfiles: 4
+      path: data/models/fasttext-CSIC2010-3072
+      size: 24689748312
+    - md5: 825e4196a19238cc420312f0356d799b.dir
+      nfiles: 2
+      path: data/tokenizers/CSIC2010
+      size: 1178421
+    - md5: fbac21e08228cdf9e48631ce17ea03ce
+      path: stages/vectorize.py
+      size: 2075
+    outs:
+    - md5: 7882563f295ca4699f9a79a93b95be87.dir
+      nfiles: 1
+      path: data/vectors/fasttext-CSIC2010-3072
+      size: 5704852157
+  3-vectorize@fasttext-ISCXURL2016-3072:
+    cmd: PYTHONPATH=. python stages/vectorize.py data/datasets/ISCXURL2016/test_model.jsonl
+      data/vectors/fasttext-ISCXURL2016-3072 --model fasttext --model-path data/models/fasttext-ISCXURL2016-3072
+      --tokenizer data/tokenizers/ISCXURL2016
+    deps:
+    - md5: 3cfcf14394983cd99bdbd25ca3fa12db.dir
+      nfiles: 2
+      path: data/datasets/ISCXURL2016
+      size: 27759904
+    - md5: 690fc5a6f2c8df21a8635138120a1ba2.dir
+      nfiles: 4
+      path: data/models/fasttext-ISCXURL2016-3072
+      size: 25026665686
+    - md5: 36630defdd103d6c923a71894a4d99f5.dir
+      nfiles: 2
+      path: data/tokenizers/ISCXURL2016
+      size: 1174819
+    - md5: fbac21e08228cdf9e48631ce17ea03ce
+      path: stages/vectorize.py
+      size: 2075
+    outs:
+    - md5: 4689216f733883079b75f93a6caffa60.dir
+      nfiles: 1
+      path: data/vectors/fasttext-ISCXURL2016-3072
+      size: 9230807045
+  3-vectorize@fasttext-MALICIOUSURL-3072:
+    cmd: PYTHONPATH=. python stages/vectorize.py data/datasets/MALICIOUSURL/test_model.jsonl
+      data/vectors/fasttext-MALICIOUSURL-3072 --model fasttext --model-path data/models/fasttext-MALICIOUSURL-3072
+      --tokenizer data/tokenizers/MALICIOUSURL
+    deps:
+    - md5: 34d083bed4e9a22f18f5f60d8ebeed31.dir
+      nfiles: 2
+      path: data/datasets/MALICIOUSURL
+      size: 38794533
+    - md5: 11b9ee7ac9aac639715d06d341a4740e.dir
+      nfiles: 4
+      path: data/models/fasttext-MALICIOUSURL-3072
+      size: 25579136703
+    - md5: 9094f63abefc9f1c761502692181cdb6.dir
+      nfiles: 2
+      path: data/tokenizers/MALICIOUSURL
+      size: 1171566
+    - md5: fbac21e08228cdf9e48631ce17ea03ce
+      path: stages/vectorize.py
+      size: 2075
+    outs:
+    - md5: 5096afc6853488d2b9fc732b5c9a1d98.dir
+      nfiles: 1
+      path: data/vectors/fasttext-MALICIOUSURL-3072
+      size: 12484945640
+  3-vectorize@fasttext-UNSW-NB15-3072:
+    cmd: PYTHONPATH=. python stages/vectorize.py data/datasets/UNSW-NB15/test_model.jsonl
+      data/vectors/fasttext-UNSW-NB15-3072 --model fasttext --model-path data/models/fasttext-UNSW-NB15-3072
+      --tokenizer data/tokenizers/UNSW-NB15
+    deps:
+    - md5: 53c86876a26f9952aca463ba0305d7f2.dir
+      nfiles: 2
+      path: data/datasets/UNSW-NB15
+      size: 26982266
+    - md5: e75ad3a886ed9e90d04222b1d53f547c.dir
+      nfiles: 4
+      path: data/models/fasttext-UNSW-NB15-3072
+      size: 24665266397
+    - md5: a4884a9d7c8d4a14b7263ff663e58108.dir
+      nfiles: 2
+      path: data/tokenizers/UNSW-NB15
+      size: 1297724
+    - md5: fbac21e08228cdf9e48631ce17ea03ce
+      path: stages/vectorize.py
+      size: 2075
+    outs:
+    - md5: 683cbb2d163521d17142971e3c4e71b0.dir
+      nfiles: 1
+      path: data/vectors/fasttext-UNSW-NB15-3072
+      size: 1604157964
+  3-vectorize@roberta-CSIC2010-3072:
+    cmd: PYTHONPATH=. python stages/vectorize.py data/datasets/CSIC2010/test_model.jsonl
+      data/vectors/roberta-CSIC2010-3072 --model roberta --model-path data/models/roberta-CSIC2010-3072
+      --tokenizer data/tokenizers/CSIC2010
+    deps:
+    - md5: 54a8f4bc22c5a140db42ff8cd20b9e7b.dir
+      nfiles: 2
+      path: data/datasets/CSIC2010
+      size: 60161592
+    - md5: bcf102c2ec84ee2c291ed893ac48c437.dir
+      nfiles: 3
+      path: data/models/roberta-CSIC2010-3072
+      size: 334069391
+    - md5: 825e4196a19238cc420312f0356d799b.dir
+      nfiles: 2
+      path: data/tokenizers/CSIC2010
+      size: 1178421
+    - md5: fbac21e08228cdf9e48631ce17ea03ce
+      path: stages/vectorize.py
+      size: 2075
+    outs:
+    - md5: 3a8b130894fac16ddca5de930980a2c3.dir
+      nfiles: 1
+      path: data/vectors/roberta-CSIC2010-3072
+      size: 5596907616
+  3-vectorize@roberta-ISCXURL2016-3072:
+    cmd: PYTHONPATH=. python stages/vectorize.py data/datasets/ISCXURL2016/test_model.jsonl
+      data/vectors/roberta-ISCXURL2016-3072 --model roberta --model-path data/models/roberta-ISCXURL2016-3072
+      --tokenizer data/tokenizers/ISCXURL2016
+    deps:
+    - md5: 3cfcf14394983cd99bdbd25ca3fa12db.dir
+      nfiles: 2
+      path: data/datasets/ISCXURL2016
+      size: 27759904
+    - md5: 4d13a1715fe61703b0a3bb6d8bd3eb52.dir
+      nfiles: 3
+      path: data/models/roberta-ISCXURL2016-3072
+      size: 334069376
+    - md5: 36630defdd103d6c923a71894a4d99f5.dir
+      nfiles: 2
+      path: data/tokenizers/ISCXURL2016
+      size: 1174819
+    - md5: fbac21e08228cdf9e48631ce17ea03ce
+      path: stages/vectorize.py
+      size: 2075
+    outs:
+    - md5: c2d9f4c11b9ca77f36eabb2878363f89.dir
+      nfiles: 1
+      path: data/vectors/roberta-ISCXURL2016-3072
+      size: 9129516624
+  3-vectorize@roberta-MALICIOUSURL-3072:
+    cmd: PYTHONPATH=. python stages/vectorize.py data/datasets/MALICIOUSURL/test_model.jsonl
+      data/vectors/roberta-MALICIOUSURL-3072 --model roberta --model-path data/models/roberta-MALICIOUSURL-3072
+      --tokenizer data/tokenizers/MALICIOUSURL
+    deps:
+    - md5: 34d083bed4e9a22f18f5f60d8ebeed31.dir
+      nfiles: 2
+      path: data/datasets/MALICIOUSURL
+      size: 38794533
+    - md5: 6f8189577696718892904e51e7093655.dir
+      nfiles: 3
+      path: data/models/roberta-MALICIOUSURL-3072
+      size: 334069391
+    - md5: 9094f63abefc9f1c761502692181cdb6.dir
+      nfiles: 2
+      path: data/tokenizers/MALICIOUSURL
+      size: 1171566
+    - md5: fbac21e08228cdf9e48631ce17ea03ce
+      path: stages/vectorize.py
+      size: 2075
+    outs:
+    - md5: e23435e55b6cb76c97d4d2a434fe0382.dir
+      nfiles: 1
+      path: data/vectors/roberta-MALICIOUSURL-3072
+      size: 12336460347
+  3-vectorize@roberta-UNSW-NB15-3072:
+    cmd: PYTHONPATH=. python stages/vectorize.py data/datasets/UNSW-NB15/test_model.jsonl
+      data/vectors/roberta-UNSW-NB15-3072 --model roberta --model-path data/models/roberta-UNSW-NB15-3072
+      --tokenizer data/tokenizers/UNSW-NB15
+    deps:
+    - md5: 53c86876a26f9952aca463ba0305d7f2.dir
+      nfiles: 2
+      path: data/datasets/UNSW-NB15
+      size: 26982266
+    - md5: 0bb6ab0c82b1e010acd8d2925765a811.dir
+      nfiles: 3
+      path: data/models/roberta-UNSW-NB15-3072
+      size: 334069388
+    - md5: a4884a9d7c8d4a14b7263ff663e58108.dir
+      nfiles: 2
+      path: data/tokenizers/UNSW-NB15
+      size: 1297724
+    - md5: fbac21e08228cdf9e48631ce17ea03ce
+      path: stages/vectorize.py
+      size: 2075
+    outs:
+    - md5: 285744982db44cb589da93d09206c8c8.dir
+      nfiles: 1
+      path: data/vectors/roberta-UNSW-NB15-3072
+      size: 1572149632
+  4-classify@bow-CSIC2010-3072:
+    cmd: PYTHONPATH=. python stages/classify.py data/vectors/bow-CSIC2010-3072 data/classification/bow-CSIC2010-3072
+      --n-runs 5
+    deps:
+    - md5: ce3a7b5350e9f778dcf11d1aa991b7db.dir
+      nfiles: 1
+      path: data/vectors/bow-CSIC2010-3072
+      size: 2593884482
+    - md5: 1abd9863a323f95822fe68795ba629b6
+      path: stages/classify.py
+      size: 6498
+    outs:
+    - md5: ffc57070efadb578ec4df19df925cf46
+      path: data/classification/bow-CSIC2010-3072/metrics.json
+      size: 544
+    - md5: ecde37e2f75c0a7d4a54f2abc496841a.dir
+      nfiles: 5
+      path: data/classification/bow-CSIC2010-3072/saved
+      size: 42989338
+  4-classify@bow-ISCXURL2016-3072:
+    cmd: PYTHONPATH=. python stages/classify.py data/vectors/bow-ISCXURL2016-3072
+      data/classification/bow-ISCXURL2016-3072 --n-runs 5
+    deps:
+    - md5: 16e35512503f8252abc7a6ce8358e940.dir
+      nfiles: 1
+      path: data/vectors/bow-ISCXURL2016-3072
+      size: 4234936607
+    - md5: 1abd9863a323f95822fe68795ba629b6
+      path: stages/classify.py
+      size: 6498
+    outs:
+    - md5: d694da9a1612c2e542ad747ffacf8f5a
+      path: data/classification/bow-ISCXURL2016-3072/metrics.json
+      size: 552
+    - md5: bb74c3ee97b467fb69ff96e5bdb595e4.dir
+      nfiles: 5
+      path: data/classification/bow-ISCXURL2016-3072/saved
+      size: 47254519
+  4-classify@bow-MALICIOUSURL-3072:
+    cmd: PYTHONPATH=. python stages/classify.py data/vectors/bow-MALICIOUSURL-3072
+      data/classification/bow-MALICIOUSURL-3072 --n-runs 5
+    deps:
+    - md5: a63ec5c0bbf1e42cfd506c905898e00b.dir
+      nfiles: 1
+      path: data/vectors/bow-MALICIOUSURL-3072
+      size: 5785021001
+    - md5: 1abd9863a323f95822fe68795ba629b6
+      path: stages/classify.py
+      size: 6498
+    outs:
+    - md5: bbd822a5ec643b2634db2717ba207747
+      path: data/classification/bow-MALICIOUSURL-3072/metrics.json
+      size: 535
+    - md5: 8f783ec56180710f08471e5eee8fec29.dir
+      nfiles: 5
+      path: data/classification/bow-MALICIOUSURL-3072/saved
+      size: 311637871
+  4-classify@bow-UNSW-NB15-3072:
+    cmd: PYTHONPATH=. python stages/classify.py data/vectors/bow-UNSW-NB15-3072 data/classification/bow-UNSW-NB15-3072
+      --n-runs 5
+    deps:
+    - md5: 3c722cb01d6fcf107b471a0ffbd74a60.dir
+      nfiles: 1
+      path: data/vectors/bow-UNSW-NB15-3072
+      size: 713442064
+    - md5: 1abd9863a323f95822fe68795ba629b6
+      path: stages/classify.py
+      size: 6498
+    outs:
+    - md5: d79a36f7f42d7de23a76df49a9d54fe2
+      path: data/classification/bow-UNSW-NB15-3072/metrics.json
+      size: 538
+    - md5: 016a3d420934c07bde0ddb60d1f881d7.dir
+      nfiles: 5
+      path: data/classification/bow-UNSW-NB15-3072/saved
+      size: 19818713
+  4-classify@fasttext-CSIC2010-3072:
+    cmd: PYTHONPATH=. python stages/classify.py data/vectors/fasttext-CSIC2010-3072
+      data/classification/fasttext-CSIC2010-3072 --n-runs 5
+    deps:
+    - md5: 7882563f295ca4699f9a79a93b95be87.dir
+      nfiles: 1
+      path: data/vectors/fasttext-CSIC2010-3072
+      size: 5704852157
+    - md5: 1abd9863a323f95822fe68795ba629b6
+      path: stages/classify.py
+      size: 6498
+    outs:
+    - md5: 3a3c00637f6619ae667cdb705b76efcd
+      path: data/classification/fasttext-CSIC2010-3072/metrics.json
+      size: 540
+    - md5: 76ad6d4953e85062414265f4ed69e578.dir
+      nfiles: 5
+      path: data/classification/fasttext-CSIC2010-3072/saved
+      size: 19800706
+  4-classify@fasttext-ISCXURL2016-3072:
+    cmd: PYTHONPATH=. python stages/classify.py data/vectors/fasttext-ISCXURL2016-3072
+      data/classification/fasttext-ISCXURL2016-3072 --n-runs 5
+    deps:
+    - md5: 4689216f733883079b75f93a6caffa60.dir
+      nfiles: 1
+      path: data/vectors/fasttext-ISCXURL2016-3072
+      size: 9230807045
+    - md5: 1abd9863a323f95822fe68795ba629b6
+      path: stages/classify.py
+      size: 6498
+    outs:
+    - md5: 39080effd2e053c35d913e9a332f5f0b
+      path: data/classification/fasttext-ISCXURL2016-3072/metrics.json
+      size: 546
+    - md5: 00288db3da1728d37103c1948cfc6f04.dir
+      nfiles: 5
+      path: data/classification/fasttext-ISCXURL2016-3072/saved
+      size: 24019072
+  4-classify@fasttext-MALICIOUSURL-3072:
+    cmd: PYTHONPATH=. python stages/classify.py data/vectors/fasttext-MALICIOUSURL-3072
+      data/classification/fasttext-MALICIOUSURL-3072 --n-runs 5
+    deps:
+    - md5: 5096afc6853488d2b9fc732b5c9a1d98.dir
+      nfiles: 1
+      path: data/vectors/fasttext-MALICIOUSURL-3072
+      size: 12484945640
+    - md5: 1abd9863a323f95822fe68795ba629b6
+      path: stages/classify.py
+      size: 6498
+    outs:
+    - md5: 381c29a8215c78d65d0e043748e7c136
+      path: data/classification/fasttext-MALICIOUSURL-3072/metrics.json
+      size: 536
+    - md5: 4e93869fc1617b565b67c9ece02d3939.dir
+      nfiles: 5
+      path: data/classification/fasttext-MALICIOUSURL-3072/saved
+      size: 86193147
+  4-classify@fasttext-UNSW-NB15-3072:
+    cmd: PYTHONPATH=. python stages/classify.py data/vectors/fasttext-UNSW-NB15-3072
+      data/classification/fasttext-UNSW-NB15-3072 --n-runs 5
+    deps:
+    - md5: 683cbb2d163521d17142971e3c4e71b0.dir
+      nfiles: 1
+      path: data/vectors/fasttext-UNSW-NB15-3072
+      size: 1604157964
+    - md5: 1abd9863a323f95822fe68795ba629b6
+      path: stages/classify.py
+      size: 6498
+    outs:
+    - md5: 835b1bfe27eaa1ab2bb3901da15ead43
+      path: data/classification/fasttext-UNSW-NB15-3072/metrics.json
+      size: 535
+    - md5: b107e8fcf6ecc03be6931e4359ae94c4.dir
+      nfiles: 5
+      path: data/classification/fasttext-UNSW-NB15-3072/saved
+      size: 11716790
+  4-classify@roberta-CSIC2010-3072:
+    cmd: PYTHONPATH=. python stages/classify.py data/vectors/roberta-CSIC2010-3072
+      data/classification/roberta-CSIC2010-3072 --n-runs 5
+    deps:
+    - md5: 3a8b130894fac16ddca5de930980a2c3.dir
+      nfiles: 1
+      path: data/vectors/roberta-CSIC2010-3072
+      size: 5596907616
+    - md5: 1abd9863a323f95822fe68795ba629b6
+      path: stages/classify.py
+      size: 6498
+    outs:
+    - md5: 010e4c6003084db6a3aa1fd205b16fb7
+      path: data/classification/roberta-CSIC2010-3072/metrics.json
+      size: 543
+    - md5: 54586ca0b4ecb5f21c4c5bdc95476b0a.dir
+      nfiles: 5
+      path: data/classification/roberta-CSIC2010-3072/saved
+      size: 17946380
+  4-classify@roberta-ISCXURL2016-3072:
+    cmd: PYTHONPATH=. python stages/classify.py data/vectors/roberta-ISCXURL2016-3072
+      data/classification/roberta-ISCXURL2016-3072 --n-runs 5
+    deps:
+    - md5: c2d9f4c11b9ca77f36eabb2878363f89.dir
+      nfiles: 1
+      path: data/vectors/roberta-ISCXURL2016-3072
+      size: 9129516624
+    - md5: 1abd9863a323f95822fe68795ba629b6
+      path: stages/classify.py
+      size: 6498
+    outs:
+    - md5: 6b6ff8a8387c719eaeaa16a132c4fddd
+      path: data/classification/roberta-ISCXURL2016-3072/metrics.json
+      size: 479
+    - md5: b1e78be696d3bcb06c6791c662fb5a27.dir
+      nfiles: 5
+      path: data/classification/roberta-ISCXURL2016-3072/saved
+      size: 19985340
+  4-classify@roberta-MALICIOUSURL-3072:
+    cmd: PYTHONPATH=. python stages/classify.py data/vectors/roberta-MALICIOUSURL-3072
+      data/classification/roberta-MALICIOUSURL-3072 --n-runs 5
+    deps:
+    - md5: e23435e55b6cb76c97d4d2a434fe0382.dir
+      nfiles: 1
+      path: data/vectors/roberta-MALICIOUSURL-3072
+      size: 12336460347
+    - md5: 1abd9863a323f95822fe68795ba629b6
+      path: stages/classify.py
+      size: 6498
+    outs:
+    - md5: ba6f4f61a66aa85f02adbd819859a271
+      path: data/classification/roberta-MALICIOUSURL-3072/metrics.json
+      size: 542
+    - md5: 68650d8c8c2510b97c6c4a25d58bea3b.dir
+      nfiles: 5
+      path: data/classification/roberta-MALICIOUSURL-3072/saved
+      size: 64059425
+  4-classify@roberta-UNSW-NB15-3072:
+    cmd: PYTHONPATH=. python stages/classify.py data/vectors/roberta-UNSW-NB15-3072
+      data/classification/roberta-UNSW-NB15-3072 --n-runs 5
+    deps:
+    - md5: 285744982db44cb589da93d09206c8c8.dir
+      nfiles: 1
+      path: data/vectors/roberta-UNSW-NB15-3072
+      size: 1572149632
+    - md5: 1abd9863a323f95822fe68795ba629b6
+      path: stages/classify.py
+      size: 6498
+    outs:
+    - md5: 968c70192f0e2b16434b46049b644ab4
+      path: data/classification/roberta-UNSW-NB15-3072/metrics.json
+      size: 538
+    - md5: 1c57883bf83aae204b697fb5770d36c9.dir
+      nfiles: 5
+      path: data/classification/roberta-UNSW-NB15-3072/saved
+      size: 11376393
+  4-cluster@bow-MALICIOUSURL-3072:
+    cmd: PYTHONPATH=. python stages/cluster.py data/vectors/bow-MALICIOUSURL-3072
+      data/clustering/bow-MALICIOUSURL-3072
+    deps:
+    - md5: a63ec5c0bbf1e42cfd506c905898e00b.dir
+      nfiles: 1
+      path: data/vectors/bow-MALICIOUSURL-3072
+      size: 5785021001
+    - md5: b4a048f498dfb2503cd1a2931ebb0571
+      path: stages/cluster.py
+      size: 2430
+    outs:
+    - md5: 57e5fddf34d70c9f13cde440dddbd35b
+      path: data/clustering/bow-MALICIOUSURL-3072/metrics.json
+      size: 203
+    - md5: c69dd6ca1f3ae47b57ee8c08582b3001.dir
+      nfiles: 4
+      path: data/clustering/bow-MALICIOUSURL-3072/saved
+      size: 175085528

