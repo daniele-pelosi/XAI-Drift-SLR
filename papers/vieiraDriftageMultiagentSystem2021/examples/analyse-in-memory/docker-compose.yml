@@ -1,0 +1,44 @@
+version: "3"
+services:
+  ejabberd:
+    build: ../ejabberd_config/
+    container_name: "ejabberd-driftage"
+    ports:
+      - 5222:5222
+      - 5443:5443
+  monitor:
+    build: monitor/
+    container_name: "spark-monitor-driftage"
+    environment:
+      - MONITOR_PASSWORD=passw0rd
+    depends_on:
+      - ejabberd
+    network_mode: "host"
+  analyser_0:
+    build: analyser/
+    container_name: "adwin-analyser-driftage-0"
+    environment:
+      - ANALYSER_NAME=analyser_0
+      - ANALYSER_PASSWORD=passw0rd
+      - KB_CONNECTION_STRING=sqlite://
+    depends_on:
+      - ejabberd
+      - monitor
+    network_mode: "host"
+    entrypoint: ["python", "retrain.py"]
+    volumes:
+      - ./result:/tmp
+  analyser_1:
+    build: analyser/
+    container_name: "adwin-analyser-driftage-1"
+    environment:
+      - ANALYSER_NAME=analyser_1
+      - ANALYSER_PASSWORD=passw0rd
+      - KB_CONNECTION_STRING=sqlite://
+    depends_on:
+      - ejabberd
+      - monitor
+    network_mode: "host"
+    entrypoint: ["python", "no_retrain.py"]
+    volumes:
+      - ./result:/tmp
