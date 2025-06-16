@@ -1,0 +1,22 @@
+name: gan-data-streams
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=10.2
+  - python=3.8.5
+  - numpy
+  - scikit-learn
+  - scikit-multiflow
+  - pip
+  - matplotlib
+  - tqdm
+  - pandas
+  - pip:
+    - imbalanced-learn
+    - Pillow
+    - requests
